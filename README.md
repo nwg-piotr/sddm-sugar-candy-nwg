@@ -1,7 +1,7 @@
 # Sugar Candy login theme for SDDM
 
 *This is a fork of the [Sugar Candy SDDM theme](https://framagit.org/MarianArlt/sddm-sugar-candy) by Marian Arlt,
-preconfigured for use with [nwg-iso](https://github.com/nwg-piotr/nwg-iso).*
+preconfigured for use with [nwg-iso](https://github.com/nwg-piotr/nwg-iso). Please refer to the original repository.*
 
 You asked for more, you shall get it. Sugar Candy is the latest release in the Sugar series of SDDM themes. It's so extremely sweet your pancreas will have difficulties digesting its awesomeness.  
 
