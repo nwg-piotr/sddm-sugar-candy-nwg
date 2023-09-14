@@ -12,5 +12,5 @@ MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=marianarlt@icloud.com
-Theme-Id=sugar-candy
+Theme-Id=sugar-candy-nwg
 Theme-API=2.11
